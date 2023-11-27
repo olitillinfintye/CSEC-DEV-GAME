@@ -10,4 +10,6 @@
  ``` bash
     git clone https://github.com/olitillinfintye/CSEC-DEV-GAME.git
 ```
+## Project Path
 
+[project](Assets/@project/Scenes)

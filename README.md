@@ -13,3 +13,7 @@
 ## Project Path
 
 [project](Assets/@project/Scenes)
+## images
+![credit](credit.png)
+![menu](menu.png)
+![game](game.png)

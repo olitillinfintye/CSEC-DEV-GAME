@@ -1,5 +1,5 @@
 # CSEC_DEV GAME:
-<<<<<<< HEAD
+
 
 -2D platform simple game made with unity the player must reach the goal to win this game.
 
@@ -25,8 +25,11 @@
  ``` bash
     git clone https://github.com/olitillinfintye/CSEC-DEV-GAME.git
 ```
-## Play on browser
-[play](https://olitillinfintye.itch.io/csec-dev-game)
+## Play on browser or pc
+
+[play](https://olitillinfintye.itch.io/csec-dev-game) on brower
+
+[Download](CSEC_DEV-PC.zip) for pc build
 ## Project Path
 
 [project](Assets/@project/Scenes)
